@@ -1,0 +1,493 @@
+{
+  "version": 1,
+  "regular": [
+    {
+      "level": 1,
+      "present": "Belong",
+      "past": "Belonged",
+      "pastPart": "Belonged",
+      "gerund": "Belonging",
+      "thirdPerson": "Belongs",
+      "spanish": "Pertenecer"
+    },
+    {
+      "level": 1,
+      "present": "Change",
+      "past": "Changed",
+      "pastPart": "Changed",
+      "gerund": "Changing",
+      "thirdPerson": "Changes",
+      "spanish": "Cambiar"
+    },
+    {
+      "level": 1,
+      "present": "Cook",
+      "past": "Cooked",
+      "pastPart": "Cooked",
+      "gerund": "Cooking",
+      "thirdPerson": "Cooks",
+      "spanish": "Cocinar"
+    },
+    {
+      "level": 1,
+      "present": "Deliver",
+      "past": "Delivered",
+      "pastPart": "Delivered",
+      "gerund": "Delivering",
+      "thirdPerson": "Delivers",
+      "spanish": "Entregar"
+    },
+    {
+      "level": 1,
+      "present": "End",
+      "past": "Ended",
+      "pastPart": "Ended",
+      "gerund": "Ending",
+      "thirdPerson": "Ends",
+      "spanish": "Finalizar"
+    },
+    {
+      "level": 1,
+      "present": "Hurry",
+      "past": "Hurried",
+      "pastPart": "Hurried",
+      "gerund": "Hurrying",
+      "thirdPerson": "Hurries",
+      "spanish": "Apresurarse"
+    },
+    {
+      "level": 1,
+      "present": "Intend",
+      "past": "Intended",
+      "pastPart": "Intended",
+      "gerund": "Intending",
+      "thirdPerson": "Intends",
+      "spanish": "Tener intención"
+    },
+    {
+      "level": 1,
+      "present": "Name",
+      "past": "Named",
+      "pastPart": "Named",
+      "gerund": "Naming",
+      "thirdPerson": "Names",
+      "spanish": "Nombrar"
+    },
+    {
+      "level": 1,
+      "present": "Plan",
+      "past": "Planned",
+      "pastPart": "Planned",
+      "gerund": "Planning",
+      "thirdPerson": "Plans",
+      "spanish": "Planear"
+    },
+    {
+      "level": 1,
+      "present": "Plant",
+      "past": "Planted",
+      "pastPart": "Planted",
+      "gerund": "Planting",
+      "thirdPerson": "Plants",
+      "spanish": "Plantar"
+    },
+    {
+      "level": 1,
+      "present": "Remember",
+      "past": "Remembered",
+      "pastPart": "Remembered",
+      "gerund": "Remembering",
+      "thirdPerson": "Remembers",
+      "spanish": "Recordar"
+    },
+    {
+      "level": 1,
+      "present": "Resist",
+      "past": "Resisted",
+      "pastPart": "Resisted",
+      "gerund": "Resisting",
+      "thirdPerson": "Resits",
+      "spanish": "Resistir"
+    },
+    {
+      "level": 1,
+      "present": "Smoke",
+      "past": "Smoked",
+      "pastPart": "Smoked",
+      "gerund": "Smoking",
+      "thirdPerson": "Smokes",
+      "spanish": "Fumar"
+    },
+    {
+      "level": 1,
+      "present": "Wait",
+      "past": "Waited",
+      "pastPart": "Waited",
+      "gerund": "Waiting",
+      "thirdPerson": "Waits",
+      "spanish": "Esperar"
+    },
+    {
+      "level": 1,
+      "present": "Work",
+      "past": "Worked",
+      "pastPart": "Worked",
+      "gerund": "Working",
+      "thirdPerson": "Works",
+      "spanish": "Trabajar"
+    }
+  ],
+  "irregular": [
+    {
+      "level": 1,
+      "present": "Be",
+      "past": "Was/Were",
+      "pastPart": "Been",
+      "gerund": "Being",
+      "thirdPerson": "Is",
+      "spanish": "Ser/Estar"
+    },
+    {
+      "level": 1,
+      "present": "Become",
+      "past": "Became",
+      "pastPart": "Become",
+      "gerund": "Becoming",
+      "thirdPerson": "Becomes",
+      "spanish": "Convertirse"
+    },
+    {
+      "level": 1,
+      "present": "Begin",
+      "past": "Began",
+      "pastPart": "Begun",
+      "gerund": "Beginning",
+      "thirdPerson": "Begins",
+      "spanish": "Comenzar"
+    },
+    {
+      "level": 1,
+      "present": "Blow",
+      "past": "Blew",
+      "pastPart": "Blown",
+      "gerund": "Blowing",
+      "thirdPerson": "Blows",
+      "spanish": "Soplar"
+    },
+    {
+      "level": 1,
+      "present": "Break",
+      "past": "Broke",
+      "pastPart": "Broken",
+      "gerund": "Breaking",
+      "thirdPerson": "Breaks",
+      "spanish": "Romper"
+    },
+    {
+      "level": 1,
+      "present": "Bring",
+      "past": "Brought",
+      "pastPart": "Brought",
+      "gerund": "Bringing",
+      "thirdPerson": "Brings",
+      "spanish": "Traer"
+    },
+    {
+      "level": 1,
+      "present": "Build",
+      "past": "Built",
+      "pastPart": "Built",
+      "gerund": "Building",
+      "thirdPerson": "Builds",
+      "spanish": "Construir"
+    },
+    {
+      "level": 1,
+      "present": "Burn",
+      "past": "Burnt",
+      "pastPart": "Burnt",
+      "gerund": "Burning",
+      "thirdPerson": "Burns",
+      "spanish": "Quemarse"
+    },
+    {
+      "level": 1,
+      "present": "Buy",
+      "past": "Bought",
+      "pastPart": "Bought",
+      "gerund": "Buying",
+      "thirdPerson": "Buys",
+      "spanish": "Comprar"
+    },
+    {
+      "level": 1,
+      "present": "Choose",
+      "past": "Chose",
+      "pastPart": "Chosen",
+      "gerund": "Choosing",
+      "thirdPerson": "Chooses",
+      "spanish": "Elegir"
+    },
+    {
+      "level": 1,
+      "present": "Come",
+      "past": "Came",
+      "pastPart": "Come",
+      "gerund": "Coming",
+      "thirdPerson": "Comes",
+      "spanish": "Venir"
+    },
+    {
+      "level": 1,
+      "present": "Cut",
+      "past": "Cut",
+      "pastPart": "Cut",
+      "gerund": "Cutting",
+      "thirdPerson": "Cuts",
+      "spanish": "Cortar"
+    },
+    {
+      "level": 1,
+      "present": "Do",
+      "past": "Did",
+      "pastPart": "Done",
+      "gerund": "Doing",
+      "thirdPerson": "Does",
+      "spanish": "Hacer"
+    },
+    {
+      "level": 1,
+      "present": "Dream",
+      "past": "Dreamt",
+      "pastPart": "Dreamt",
+      "gerund": "Dreaming",
+      "thirdPerson": "Dreams",
+      "spanish": "Soñar"
+    },
+    {
+      "level": 1,
+      "present": "Drink",
+      "past": "Drank",
+      "pastPart": "Drunk",
+      "gerund": "Drinking",
+      "thirdPerson": "Drinks",
+      "spanish": "Beber"
+    },
+    {
+      "level": 1,
+      "present": "Drive",
+      "past": "Drove",
+      "pastPart": "Driven",
+      "gerund": "Driving",
+      "thirdPerson": "Drives",
+      "spanish": "Manejar"
+    },
+    {
+      "level": 1,
+      "present": "Eat",
+      "past": "Ate",
+      "pastPart": "Eaten",
+      "gerund": "Eating",
+      "thirdPerson": "Eats",
+      "spanish": "Comer"
+    },
+    {
+      "level": 1,
+      "present": "Fall",
+      "past": "Fell",
+      "pastPart": "Fallen",
+      "gerund": "Falling",
+      "thirdPerson": "Falls",
+      "spanish": "Caer"
+    },
+    {
+      "level": 1,
+      "present": "Feed",
+      "past": "Fed",
+      "pastPart": "Fed",
+      "gerund": "Feeding",
+      "thirdPerson": "Feeds",
+      "spanish": "Alimentar"
+    },
+    {
+      "level": 1,
+      "present": "Feel",
+      "past": "Felt",
+      "pastPart": "Felt",
+      "gerund": "Feeling",
+      "thirdPerson": "Feels",
+      "spanish": "Sentir"
+    },
+    {
+      "level": 1,
+      "present": "Fight",
+      "past": "Fought",
+      "pastPart": "Fought",
+      "gerund": "Fighting",
+      "thirdPerson": "Fights",
+      "spanish": "Pelear"
+    },
+    {
+      "level": 1,
+      "present": "Find",
+      "past": "Found",
+      "pastPart": "Found",
+      "gerund": "Finding",
+      "thirdPerson": "Finds",
+      "spanish": "Encontrar"
+    },
+    {
+      "level": 1,
+      "present": "Fit",
+      "past": "Fit",
+      "pastPart": "Fit",
+      "gerund": "Fitting",
+      "thirdPerson": "Fits",
+      "spanish": "Encajar"
+    },
+    {
+      "level": 1,
+      "present": "Fly",
+      "past": "Flew",
+      "pastPart": "Flown",
+      "gerund": "Flying",
+      "thirdPerson": "Flies",
+      "spanish": "Volar"
+    },
+    {
+      "level": 1,
+      "present": "Forget",
+      "past": "Forgot",
+      "pastPart": "Forgotten",
+      "gerund": "Forgetting",
+      "thirdPerson": "Forgets",
+      "spanish": "Olvidar"
+    },
+    {
+      "level": 1,
+      "present": "Forgive",
+      "past": "Forgave",
+      "pastPart": "Forgiven",
+      "gerund": "Forgiving",
+      "thirdPerson": "Forgives",
+      "spanish": "Perdonar"
+    },
+    {
+      "level": 1,
+      "present": "Get",
+      "past": "Got",
+      "pastPart": "Gotten",
+      "gerund": "Getting",
+      "thirdPerson": "Gets",
+      "spanish": "Obtener"
+    },
+    {
+      "level": 1,
+      "present": "Hold",
+      "past": "Held",
+      "pastPart": "Held",
+      "gerund": "Holding",
+      "thirdPerson": "Holds",
+      "spanish": "Sostener"
+    },
+    {
+      "level": 1,
+      "present": "Lead",
+      "past": "Led",
+      "pastPart": "Led",
+      "gerund": "Leading",
+      "thirdPerson": "Leads",
+      "spanish": "Guiar"
+    },
+    {
+      "level": 1,
+      "present": "Leap",
+      "past": "Leapt",
+      "pastPart": "Leapt",
+      "gerund": "Leaping",
+      "thirdPerson": "Leaps",
+      "spanish": "Saltar"
+    },
+    {
+      "level": 1,
+      "present": "Lose",
+      "past": "Lost",
+      "pastPart": "Lost",
+      "gerund": "Losing",
+      "thirdPerson": "Loses",
+      "spanish": "Perder"
+    },
+    {
+      "level": 1,
+      "present": "Mistake",
+      "past": "Mistook",
+      "pastPart": "Mistaken",
+      "gerund": "Mistaking",
+      "thirdPerson": "Mistakes",
+      "spanish": "Equivocarse"
+    },
+    {
+      "level": 1,
+      "present": "Ring",
+      "past": "Rang",
+      "pastPart": "Rung",
+      "gerund": "Ringing",
+      "thirdPerson": "Rings",
+      "spanish": "Sonar"
+    },
+    {
+      "level": 1,
+      "present": "Rise",
+      "past": "Rose",
+      "pastPart": "Risen",
+      "gerund": "Rising",
+      "thirdPerson": "Rises",
+      "spanish": "Elevarse"
+    },
+    {
+      "level": 1,
+      "present": "Stand",
+      "past": "Stood",
+      "pastPart": "Stood",
+      "gerund": "Standing",
+      "thirdPerson": "Stands",
+      "spanish": "Pararse"
+    },
+    {
+      "level": 1,
+      "present": "Swing",
+      "past": "Swung",
+      "pastPart": "Swung",
+      "gerund": "Swinging",
+      "thirdPerson": "Swings",
+      "spanish": "Columpiarse"
+    },
+    {
+      "level": 1,
+      "present": "Thrown",
+      "past": "Threw",
+      "pastPart": "Thrown",
+      "gerund": "Throwing",
+      "thirdPerson": "Throws",
+      "spanish": "Lanzar"
+    },
+    {
+      "level": 1,
+      "present": "Wind",
+      "past": "Wound",
+      "pastPart": "Wound",
+      "gerund": "Winding",
+      "thirdPerson": "Winds",
+      "spanish": "Bobinar"
+    },
+    {
+      "level": 1,
+      "present": "Write",
+      "past": "Wrote",
+      "pastPart": "Written",
+      "gerund": "Writing",
+      "thirdPerson": "Writes",
+      "spanish": "Escribir"
+    }
+  ]
+}
