@@ -1,8 +1,8 @@
 {
-  "version": 3,
+  "version": 4,
   "regular": [
     {
-      "level": 1,
+      "level": 2,
       "present": "Belong",
       "past": "Belonged",
       "pastPart": "Belonged",
