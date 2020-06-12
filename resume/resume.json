@@ -14,19 +14,24 @@
   },
   "apps" : [ {
     "name" : "Resume App Gabriel Rodríguez",
-    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.resumeapp"
+    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.resumeapp",
+    "image_url" : "https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/resume.webp"
   }, {
     "name" : "Stack POS",
-    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.stack.paid"
+    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.stack.paid",
+    "image_url" : "https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/stack.webp"
   }, {
     "name" : "Stack POS Free",
-    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.stack.free"
+    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.stack.free",
+    "image_url" : "https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/stack_free.webp"
   }, {
     "name" : "Easy Verbs",
-    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.easyverbs"
+    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.easyverbs",
+    "image_url" : "https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/easy_verbs.webp"
   }, {
     "name" : "Show me the city",
-    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.showmethecity"
+    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.showmethecity",
+    "image_url" : "https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/show_me_city.webp"
   } ],
   "skills" : [ {
     "languages" : [ 
