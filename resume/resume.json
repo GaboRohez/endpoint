@@ -1,154 +1,166 @@
 {
-  "about" : {
-    "email" : "gabow95k@gmail.com",
-    "job" : "Developer Android",
-    "location" : "Mexico City, CDMX",
-    "name" : "José Gabriel Rodríguez Hernández",
-    "phone" : 7712213158,
-    "resume" : "Mobile developer with three years of experience in the Android environment and six months with iOS. I think it is important to develop intuitive applications for the user, with a simple and responsive design for the different resolutions that are currently handled on mobile devices in addition to generating a highly readable and easy to maintain code. I try to stay at the forefront with new technologies to be able to use them as tools that allow me to grow professionally and improve myself in this software industry that is constantly changing. Responsible, committed, creative and punctual person."
-  },
-  "social" : {
-    "github" : "https://github.com/GaboRohez",
-    "playstore" : "https://play.google.com/store/apps/dev?id=5223529151025295341&hl=es_MX",
-    "web" : "https://gaborohez.github.io/gaborohez/"
-  },
-  "apps" : [ {
-    "name" : "Resume App Gabriel Rodríguez",
-    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.resumeapp",
-    "image_url" : "https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/resume.webp"
-  }, {
-    "name" : "Stack POS",
-    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.stack.paid",
-    "image_url" : "https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/stack.webp"
-  }, {
-    "name" : "Stack POS Free",
-    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.stack.free",
-    "image_url" : "https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/stack_free.webp"
-  }, {
-    "name" : "Easy Verbs",
-    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.easyverbs",
-    "image_url" : "https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/easy_verbs.webp"
-  }, {
-    "name" : "Show me the city",
-    "url" : "https://play.google.com/store/apps/details?id=xyz.gabrielrohez.showmethecity",
-    "image_url" : "https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/show_me_city.webp"
-  } ],
-  "skills" : [ {
-    "languages" : [ 
-      "C++",
-      "Java",
-      "kotlin",
-      "Objective C"
-    ]
-  }, {
-    "database" : [ 
-      "SQLite",
-      "MySQL"
-    ]
-  }, {
-    "ide" : [ 
-      "Android Studio",
-      "Xcode"
-    ]
-  }, {
-    "version_control" : [ 
-      "Git"
-    ]
-  }, {
-    "platforms" : [ 
-      "Ubuntu",
-      "Windows",
-      "OSX"
-    ]
-  } ],
-  "inter_personal": {
-    "aptitudes": [
-      "Responsable",
-      "Honest",
-      "Creative",
-      "Teamwork",
-      "Perseverance",
-      "Puntuality",
-      "Committed",
-      "Learning facility"
-    ],
-    "interests": [
-      "Music",
-      "Futbol",
-      "Run",
-      "Photography",
-      "Video Games",
-      "To travel"
-    ]
-  },
-  "courses": [
-    {
-      "institute": "Autonomous University of the State of Hidalgo",
-      "grade": "Computer Science",
-      "period": "Jul. 2013 - Nov. 2017",
-      "title": "University Degree"
-    },
-    {
-      "institute": "OMNIUS Technology Solutions",
-      "grade": "Android Certified Professional Exam",
-      "period": "May. 2016 - Aug. 2016",
-      "title": "Certificate - CERT ID: 1609159925023"
-    },
-    {
-      "institute": "Develop Talent & Technology",
-      "grade": "Java Programming Fundamentals",
-      "period": "Aug. 2016",
-      "title": "Certificate - CERT ID: DEV-FPJ-111-01299"
-    },
-    {
-      "institute": "Microsoft Technology Associate",
-      "grade": "Database Fundamentals",
-      "period": "Dec. 2014",
-      "title": "Certificate - Microsoft, License F057-9777"
-    }
-  ],
-  "experience": [
-    {
-      "name": "Global Hitss",
-      "city": "CDMX",
-      "job": "Android Developer",
-      "period": "Jan. 2017 - Present",
-      "latitude": "19.359348",
-      "longitude": "-99.172122",
-      "reference": {
-        "name": "Sergio Arellano",
-        "phone": "5510293948",
-        "job": "Project leader"
+   "about":{
+      "email":"gabow95k@gmail.com",
+      "job":"Developer Android",
+      "location":"Mexico City, CDMX",
+      "name":"José Gabriel Rodríguez Hernández",
+      "phone":7712213158,
+      "resume":"Mobile developer with three years of experience in the Android environment and six months with iOS. I think it is important to develop intuitive applications for the user, with a simple and responsive design for the different resolutions that are currently handled on mobile devices in addition to generating a highly readable and easy to maintain code. I try to stay at the forefront with new technologies to be able to use them as tools that allow me to grow professionally and improve myself in this software industry that is constantly changing. Responsible, committed, creative and punctual person."
+   },
+   "social":{
+      "github":"https://github.com/GaboRohez",
+      "playstore":"https://play.google.com/store/apps/dev?id=5223529151025295341&hl=es_MX",
+      "web":"https://gaborohez.github.io/gaborohez/"
+   },
+   "apps":[
+      {
+         "name":"Resume App Gabriel Rodríguez",
+         "url":"https://play.google.com/store/apps/details?id=xyz.gabrielrohez.resumeapp",
+         "image_url":"https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/resume.webp"
       },
-      "activities":[ 
-        "Creación de aplicaciones Android implementando el patrón de diseño MVP.",
-        "Desarrollo de interfaces de usuario que se adapten a diferentes resoluciones.",
-        "Consumo de servicios web REST.",
-        "Manejo de la API de Google Maps, Firebase.",
-        "Manejo de base de datos interna (Room Persistence Library).",
-        " Desarrollo de una aplicación para vendedores de servicios de telefonía e internet. Se muestra en un mapa las direcciones que ya cuentan con el servicio, además de ello, el promotor tiene la posibilidad de realizar nuevos contratos, agregar nuevos servicios y/o aumentar o disminuir el paquete contratado del usuario que cuenta con el servicio."
-      ]
-    },
-    {
-      "name": "Sferea Studios",
-      "city": "CDMX",
-      "job": "iOS Developer",
-      "period": "May. 2017 - Oct. 2017",
-      "latitude": "19.355807",
-      "longitude": "-99.186855",
-      "reference": {
-        "name": "Diana Isabel Rojas",
-        "phone": "5540563393",
-        "job": "Project leader"
+      {
+         "name":"Stack POS",
+         "url":"https://play.google.com/store/apps/details?id=xyz.gabrielrohez.stack.paid",
+         "image_url":"https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/stack.webp"
       },
-      "activitys":[ 
-        "Creación de  aplicaciones  iOS.",
-        "Desarrollo de  interfaces  de  usuario.",
-        "Consumo  de  servicios web REST.",
-        "Corrección de  errores en  aplicaciones.",
-        "Apoyo en el desarrollo de una aplicación bancaria de consulta (APP PROSA), muestra las estadísticas de los usuarios en forma de gráficas, así como anuncios internos de la empresa.",
-        "Desarrollo del módulo de perfil de la persona apadrinada en la aplicación Padrino Lazos. Creación del módulo, consumo de servicios web y presentación de la información en la sección correspondiente."
+      {
+         "name":"Stack POS Free",
+         "url":"https://play.google.com/store/apps/details?id=xyz.gabrielrohez.stack.free",
+         "image_url":"https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/stack_free.webp"
+      },
+      {
+         "name":"Easy Verbs",
+         "url":"https://play.google.com/store/apps/details?id=xyz.gabrielrohez.easyverbs",
+         "image_url":"https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/easy_verbs.webp"
+      },
+      {
+         "name":"Show me the city",
+         "url":"https://play.google.com/store/apps/details?id=xyz.gabrielrohez.showmethecity",
+         "image_url":"https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/show_me_city.webp"
+      }
+   ],
+   "skills":[
+      {
+         "languages":[
+            "C++",
+            "Java",
+            "kotlin",
+            "Objective C"
+         ]
+      },
+      {
+         "database":[
+            "SQLite",
+            "MySQL"
+         ]
+      },
+      {
+         "ide":[
+            "Android Studio",
+            "Xcode"
+         ]
+      },
+      {
+         "version_control":[
+            "Git"
+         ]
+      },
+      {
+         "platforms":[
+            "Ubuntu",
+            "Windows",
+            "OSX"
+         ]
+      }
+   ],
+   "inter_personal":{
+      "aptitudes":[
+         "Responsable",
+         "Honest",
+         "Creative",
+         "Teamwork",
+         "Perseverance",
+         "Puntuality",
+         "Committed",
+         "Learning facility"
+      ],
+      "interests":[
+         "Music",
+         "Futbol",
+         "Run",
+         "Photography",
+         "Video Games",
+         "To travel"
       ]
-    }
-  ]
+   },
+   "courses":[
+      {
+         "institute":"Autonomous University of the State of Hidalgo",
+         "grade":"Computer Science",
+         "period":"Jul. 2013 - Nov. 2017",
+         "title":"University Degree"
+      },
+      {
+         "institute":"OMNIUS Technology Solutions",
+         "grade":"Android Certified Professional Exam",
+         "period":"May. 2016 - Aug. 2016",
+         "title":"Certificate - CERT ID: 1609159925023"
+      },
+      {
+         "institute":"Develop Talent & Technology",
+         "grade":"Java Programming Fundamentals",
+         "period":"Aug. 2016",
+         "title":"Certificate - CERT ID: DEV-FPJ-111-01299"
+      },
+      {
+         "institute":"Microsoft Technology Associate",
+         "grade":"Database Fundamentals",
+         "period":"Dec. 2014",
+         "title":"Certificate - Microsoft, License F057-9777"
+      }
+   ],
+   "experience":[
+      {
+         "name":"Global Hitss",
+         "city":"CDMX",
+         "job":"Android Developer",
+         "period":"Jan. 2017 - Present",
+         "latitude":"19.359348",
+         "longitude":"-99.172122",
+         "reference":{
+            "name":"Sergio Arellano",
+            "phone":"5510293948",
+            "job":"Project leader"
+         },
+         "activities":[
+            "Creación de aplicaciones Android implementando el patrón de diseño MVP.",
+            "Desarrollo de interfaces de usuario que se adapten a diferentes resoluciones.",
+            "Consumo de servicios web REST.",
+            "Manejo de la API de Google Maps, Firebase.",
+            "Manejo de base de datos interna (Room Persistence Library).",
+            " Desarrollo de una aplicación para vendedores de servicios de telefonía e internet. Se muestra en un mapa las direcciones que ya cuentan con el servicio, además de ello, el promotor tiene la posibilidad de realizar nuevos contratos, agregar nuevos servicios y/o aumentar o disminuir el paquete contratado del usuario que cuenta con el servicio."
+         ]
+      },
+      {
+         "name":"Sferea Studios",
+         "city":"CDMX",
+         "job":"iOS Developer",
+         "period":"May. 2017 - Oct. 2017",
+         "latitude":"19.355807",
+         "longitude":"-99.186855",
+         "reference":{
+            "name":"Diana Isabel Rojas",
+            "phone":"5540563393",
+            "job":"Project leader"
+         },
+         "activitys":[
+            "Creación de  aplicaciones  iOS.",
+            "Desarrollo de  interfaces  de  usuario.",
+            "Consumo  de  servicios web REST.",
+            "Corrección de  errores en  aplicaciones.",
+            "Apoyo en el desarrollo de una aplicación bancaria de consulta (APP PROSA), muestra las estadísticas de los usuarios en forma de gráficas, así como anuncios internos de la empresa.",
+            "Desarrollo del módulo de perfil de la persona apadrinada en la aplicación Padrino Lazos. Creación del módulo, consumo de servicios web y presentación de la información en la sección correspondiente."
+         ]
+      }
+   ]
 }
