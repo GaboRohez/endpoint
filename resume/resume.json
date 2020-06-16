@@ -39,40 +39,30 @@
          "image_url":"https://raw.githubusercontent.com/GaboRohez/endpoint/master/resume/show_me_city.webp"
       }
    ],
-   "skills":[
-      {
-         "languages":[
-            "C++",
-            "Java",
-            "kotlin",
-            "Objective C"
-         ]
-      },
-      {
-         "database":[
-            "SQLite",
-            "MySQL"
-         ]
-      },
-      {
-         "ide":[
-            "Android Studio",
-            "Xcode"
-         ]
-      },
-      {
-         "version_control":[
-            "Git"
-         ]
-      },
-      {
-         "platforms":[
-            "Ubuntu",
-            "Windows",
-            "OSX"
-         ]
-      }
-   ],
+   "skills":{
+      "languages":[
+         "C++",
+         "Java",
+         "kotlin",
+         "Objective C"
+      ],
+      "database":[
+         "SQLite",
+         "MySQL"
+      ],
+      "ide":[
+         "Android Studio",
+         "Xcode"
+      ],
+      "version_control":[
+         "Git"
+      ],
+      "platforms":[
+         "Ubuntu",
+         "Windows",
+         "OSX"
+      ]
+   },
    "inter_personal":{
       "aptitudes":[
          "Responsable",
