@@ -41,18 +41,15 @@
    ],
    "skills":{
       "languages":[
-         "C++",
          "Java",
-         "kotlin",
-         "Objective C"
+         "kotlin"
       ],
       "database":[
          "SQLite",
          "MySQL"
       ],
       "ide":[
-         "Android Studio",
-         "Xcode"
+         "Android Studio"
       ],
       "version_control":[
          "Git"
