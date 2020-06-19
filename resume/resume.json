@@ -111,7 +111,7 @@
          "name":"Global Hitss",
          "city":"CDMX",
          "job":"Android Developer",
-         "period":"Jan. 2017 - Present",
+         "period":"Jan. 2018 - Present",
          "latitude":"19.359348",
          "longitude":"-99.172122",
          "reference":{
@@ -125,7 +125,7 @@
             "Consumo de servicios web REST.",
             "Manejo de la API de Google Maps, Firebase.",
             "Manejo de base de datos interna (Room Persistence Library).",
-            " Desarrollo de una aplicación para vendedores de servicios de telefonía e internet. Se muestra en un mapa las direcciones que ya cuentan con el servicio, además de ello, el promotor tiene la posibilidad de realizar nuevos contratos, agregar nuevos servicios y/o aumentar o disminuir el paquete contratado del usuario que cuenta con el servicio."
+            "Desarrollo de una aplicación para vendedores de servicios de telefonía e internet. Se muestra en un mapa las direcciones que ya cuentan con el servicio, además de ello, el promotor tiene la posibilidad de realizar nuevos contratos, agregar nuevos servicios y/o aumentar o disminuir el paquete contratado del usuario que cuenta con el servicio."
          ]
       },
       {
