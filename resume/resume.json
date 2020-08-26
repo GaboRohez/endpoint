@@ -120,12 +120,11 @@
             "job":"Project leader"
          },
          "activities":[
-            "Creación de aplicaciones Android implementando el patrón de diseño MVP.",
-            "Desarrollo de interfaces de usuario que se adapten a diferentes resoluciones.",
-            "Consumo de servicios web REST.",
-            "Manejo de la API de Google Maps, Firebase.",
-            "Manejo de base de datos interna (Room Persistence Library).",
-            "Desarrollo de una aplicación para vendedores de servicios de telefonía e internet. Se muestra en un mapa las direcciones que ya cuentan con el servicio, además de ello, el promotor tiene la posibilidad de realizar nuevos contratos, agregar nuevos servicios y/o aumentar o disminuir el paquete contratado del usuario que cuenta con el servicio."
+            "Creation of Android application using design pattern MVP.",
+            "Development of graphic interfaces that adapt to different resolutions.",
+            "Google Maps API.",
+            "Data persistence (Room Persistence Library & viewModel).",
+            "Development of an application for the sale of services for a recognized telecommunications company (Telmex), consumption of web services to show the different packages available for sale depending on the location of the promoter, it has the option of generating and storing forms locally to be subsequently sent and thus generate hires."
          ]
       },
       {
@@ -141,12 +140,10 @@
             "job":"Project leader"
          },
          "activities":[
-            "Creación de  aplicaciones  iOS.",
-            "Desarrollo de  interfaces  de  usuario.",
-            "Consumo  de  servicios web REST.",
-            "Corrección de  errores en  aplicaciones.",
-            "Apoyo en el desarrollo de una aplicación bancaria de consulta (APP PROSA), muestra las estadísticas de los usuarios en forma de gráficas, así como anuncios internos de la empresa.",
-            "Desarrollo del módulo de perfil de la persona apadrinada en la aplicación Padrino Lazos. Creación del módulo, consumo de servicios web y presentación de la información en la sección correspondiente."
+            "Creation if iOS applications.",
+            "Development of graphic interfaces.",
+            "Dupport in the development of a banking application for consultation (APP PROSA), shows user statistics in the form of graphs, as well as internal company announcements.",
+            "upport in the Padrino Lazos application, consuming web services and creating information modules to follow up between the godfather and godson."
          ]
       }
    ]
